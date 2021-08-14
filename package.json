@@ -1,0 +1,32 @@
+{
+    "name": "mega-drive-mega-pack",
+    "displayName": "Mega Drive Mega Pack",
+    "description": "Mega Drive Development Extension Pack",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "Programming Languages",
+        "Other"
+    ],
+    "keywords": [
+        "Mega Drive",
+        "Genesis",
+        "C",
+        "Assembly",
+        "68K",
+        "SGDK",
+        "Sega"
+    ],
+    "repository": {
+        "url": "https://github.com/zerasul/mega-drive-mega-pack"
+    },
+    "publisher": "Zerasul",
+    "extensionPack": [ 
+        "prb28.amiga-assembly",
+        "zerasul.genesis-code",
+        "ms-vscode.cpptools"
+    ]
+}
