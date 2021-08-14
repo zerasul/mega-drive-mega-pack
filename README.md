@@ -1,5 +1,7 @@
 # Mega Drive Mega Pack
 
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/zerasul.mega-drive-mega-pack?color=green)](https://marketplace.visualstudio.com/items?itemName=zerasul.mega-drive-mega-pack)
+
 Mega Drive Mega Pack, is a extension Pack for Mega Drive/Genesis Development. With this extension pack, you can install some usefull extensions for Retro Development; focused in 16 Bits Games Development.
 
 This Extension pack contains; the next extensions:
