@@ -1,16 +1,15 @@
-# README
+# Mega Drive Mega Pack
 
-## This is the README for your extension pack "mega-drive-mega-pack"
+Mega Drive Mega Pack, is a extension Pack for Mega Drive/Genesis Development. With this extension pack, you can install some usefull extensions for Retro Development; focused in 16 Bits Games Development. 
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+This Extension pack contains; the next extensions:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* [Microsoft C/C++ Official Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools). The Official Extension for use with C/C++ programming languaje. Support intellisense and Debugging.
+* [Amiga Assembly Extension](https://marketplace.visualstudio.com/items?itemName=prb28.amiga-assembly). Adds support for Motorola 68000 Assembly; can be usefull for use assembler for mega drive assembler.
+* [Genesis Code Extension](https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code). Adds support for [SGDK](https://github.com/Stephane-D/SGDK) (Sega Genesis Development Kit); and adds more usefull features like imageviewer or resource autocompletion help.
 
-## For more information
+## Contribute for this Extension Pack
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This extension pack is open and you can contribute adding more usefull extensions; only open an issue or pull request with the suggestion of a new Extension for Visual Studio Code.
 
-**Enjoy!**
+Enjoy.
