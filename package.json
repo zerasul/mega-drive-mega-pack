@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.59.0"
     },
+    "icon": "iconpack.png",
     "categories": [
         "Extension Packs",
         "Programming Languages",
