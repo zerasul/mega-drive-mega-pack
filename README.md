@@ -1,6 +1,6 @@
 # Mega Drive Mega Pack
 
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/zerasul.mega-drive-mega-pack?color=green)](https://marketplace.visualstudio.com/items?itemName=zerasul.mega-drive-mega-pack)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/zerasul.mega-drive-mega-pack?color=green)](https://marketplace.visualstudio.com/items?itemName=zerasul.mega-drive-mega-pack) <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/zerasul" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 
 Mega Drive Mega Pack, is a extension Pack for Mega Drive/Genesis Development. With this extension pack, you can install some usefull extensions for Retro Development; focused in 16 Bits Games Development.
 
